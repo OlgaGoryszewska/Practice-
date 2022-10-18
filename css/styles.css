@@ -4,4 +4,8 @@ header, footer{
 header a { 
     color: #FFFF;
 }
+.cta.button {
+background-color: #FC4D05;
+color: #FFFF;
+}
    
