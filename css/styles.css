@@ -1,5 +1,6 @@
 header, footer{
     background-color: #3F3F3F;
+    color: #FFFF;
 }
 
 header a { 
@@ -9,6 +10,7 @@ header a {
 .cta {
 background-color: #FC4D05;
 color: #FFFF;
+font-size: 1.5em;
 }
 
 .reviews {
@@ -22,4 +24,8 @@ color: #FFFF;
 
 .button-sale {
     background-color: chartreuse;
+}
+
+footer {
+    text-align: center;
 }
