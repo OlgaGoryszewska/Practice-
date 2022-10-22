@@ -16,5 +16,10 @@ color: #FFFF;
 }
 
 
+.button-view {
+    background-color: #FC4D05;
+}
 
-
+.button-sale {
+    background-color: chartreuse;
+}
