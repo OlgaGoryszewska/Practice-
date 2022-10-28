@@ -3,8 +3,8 @@ h1 {
 }
 
 @font-face {
-    font-family:"Boots and Spurs" ;
-    src: url("..fonts/bootsandspurs.ttf") format("truetype");
+    font-family:"BootAndSpurs.ttf" ;
+    src: url("../Fonts/BootsAndSpurs.ttf") format("truetype");
 }
 
 header, footer{
