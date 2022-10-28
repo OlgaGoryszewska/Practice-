@@ -5,7 +5,7 @@ h1 {
 
 @font-face {
     font-family:"Boots and Spurs" ;
-    src: url(../fonts/bootsandspurs.ttf)
+    src: url("../bootsandspurs.ttf") format("truetype");
 }
 
 
