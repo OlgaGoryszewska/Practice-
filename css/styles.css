@@ -1,14 +1,10 @@
 @font-face {
     font-family:"BootsAndSpurs.ttf" ;
-    src: url("../Fonts/BootsAndSpurs.ttf") format("truetype");
+    src: url("../Fonts/BootsAndSpurs.ttf");
 }
 
 h1 {
-    font-family:" Boots and Spurs";
-    font-size:xx-large;
-    color: #FC4D05;
-}
-
+    font-family: "Boots And Spurs";
 
 header, footer{
     background-color: #3F3F3F;
