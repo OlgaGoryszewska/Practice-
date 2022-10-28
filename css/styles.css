@@ -1,39 +1,8 @@
 @font-face {
-    font-family:"BootsAndSpurs" ;
-    src: url("../Fonts/BootsAndSpurs.ttf"); format:("truetype")
+    font-family: "BootsAndSpurs";
+    src: url(../Fonts/BootsAndSpurs.ttf) format("truetype");
 }
 
 h1 {
-    font-family: "Boots And Spurs";
-
-header, footer{
-    background-color: #3F3F3F;
-    color: #FFFF;
-}
-
-header a { 
-    color: #FFFF;
-}
-
-.cta {
-background-color: #FC4D05;
-color: #FFFF;
-font-size: 1.5em;
-}
-
-.reviews {
-    background-color: #E9E9E9;
-}
-
-
-.button-view {
-    background-color: #FC4D05;
-}
-
-.button-sale {
-    background-color: chartreuse;
-}
-
-footer {
-    text-align: center;
+    font-family: "BootsAndSpurs";
 }
