@@ -1,11 +1,12 @@
-h1 {
-    font-family:" boots and spurs";
-}
-
 @font-face {
     font-family:"BootAndSpurs.ttf" ;
     src: url("../Fonts/BootsAndSpurs.ttf") format("truetype");
 }
+
+h1 {
+    font-family: " Boots and suports", Verdana, Geneva, Tahoma, sans-serif ;
+}
+
 
 header, footer{
     background-color: #3F3F3F;
