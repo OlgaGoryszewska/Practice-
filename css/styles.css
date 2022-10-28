@@ -1,6 +1,6 @@
 @font-face {
     font-family: "BootsAndSpurs";
-    src: url(../Fonts/BootsAndSpurs.ttf) format("truetype");
+    src: url("./Fonts/BootsAndSpurs.ttf") format("truetype");
 }
 
 h1 {
