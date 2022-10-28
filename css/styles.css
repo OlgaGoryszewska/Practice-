@@ -1,11 +1,12 @@
 @font-face {
-    font-family:"BootAndSpurs.ttf" ;
+    font-family:"BootsAndSpurs.ttf" ;
     src: url("../Fonts/BootsAndSpurs.ttf") format("truetype");
 }
 
 h1 {
     font-family: " Boots and suports", Verdana, Geneva, Tahoma, sans-serif ;
     font-size: large;
+    color: #FC4D05;
 }
 
 
