@@ -1,8 +1,8 @@
 @font-face {
-    font-family: "BootsAndSpurs";
-    src: url("../Fonts/BootsAndSpurs.ttf") format("truetype");
+    font-family: "Roboto";
+    src: url("../Fonts/Roboto.zip") format("truetype");
 }
 
 h1 {
-    font-family: "BootsAndSpurs" Arial, Helvetica, sans-serif;
+    font-family: "Roboto" Arial, Helvetica, sans-serif;
 }
