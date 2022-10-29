@@ -22,3 +22,15 @@ header a {
     color: aliceblue;
     font-size: 1.5em;
 }
+
+.reviews {
+    background-color: chocolate;
+}
+
+.featured {
+    background-color: coral;
+}
+
+.button-sale {
+    background-color: darkgreen;
+}
