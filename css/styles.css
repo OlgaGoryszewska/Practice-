@@ -4,4 +4,10 @@
 }
 h1 {
     font-family: "Roboto", Arial, Helvetica, sans-serif;
+    color: brown;
+}
+header, footer {
+    background-color: black;
+    font-family: "roboto";
+    color: aliceblue;
 }
