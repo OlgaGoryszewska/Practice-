@@ -6,8 +6,19 @@ h1 {
     font-family: "Roboto", Arial, Helvetica, sans-serif;
     color: brown;
 }
-header, footer {
+header, 
+footer {
     background-color: black;
     font-family: "roboto";
     color: aliceblue;
+}
+
+header a {
+    color: aliceblue;
+}
+
+.cta {
+    background-color: brown;
+    color: aliceblue;
+    font-size: 1.5em;
 }
