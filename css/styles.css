@@ -1,8 +1,7 @@
 @font-face {
     font-family: "Roboto";
-    src: url("../Fonts/Roboto.zip") format("truetype");
+    src: url("../Fonts/Roboto.zip"); 
 }
-
 h1 {
-    font-family: "Roboto" Arial, Helvetica, sans-serif;
+    font-family: "Roboto", Arial, Helvetica, sans-serif;
 }
